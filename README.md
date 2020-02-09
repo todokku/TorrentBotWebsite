@@ -38,7 +38,7 @@ others entries...
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Setting up app
+## Setting up the app
 - After the app has been deployed open this link: `http://APPNAME.herokuapp.com/` make sure to use `http` NOT `https`
 - The page should ask you for your aria2 secret, you made it above, input it
 - Then click 'Go to AriaNG panel'
