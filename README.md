@@ -35,6 +35,7 @@ others entries...
 - In `HEROKU_APP_NAME` put the name of your Heroku app, it will be above on the same page
 - In `RCLONE_CONFIG` paste the saved text you made from the 'Rclone.conf setup' part of this tutorial
 - In `RCLONE_DESTINATION` set a path you want to store your downloaded files. It should have a `/` before it. So it should look something like this: `/NameOfFolder`
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Setting up app
