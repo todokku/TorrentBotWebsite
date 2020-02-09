@@ -36,4 +36,10 @@ others entries...
 - In `RCLONE_CONFIG` paste the saved text you made from the 'Rclone.conf setup' part of this tutorial
 - In `RCLONE_DESTINATION` set a path you want to store your downloaded files. It should have a `/` before it. So it should look something like this: `/NameOfFolder`
 
+## Setting up app
+- After the app has been deployed open this link: `http://APPNAME.herokuapp.com/` make sure to use `http` NOT `https`
+- The page should ask you for your aria2 secret, you made it above, input it
+- Then click 'Go to AriaNG panel'
+- A popup should come saying your app is connected, if not you did something wrong
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
