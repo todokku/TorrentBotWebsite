@@ -8,8 +8,8 @@ This is a repo to create a website that uses aria2 to mirror files from the inte
 - Download/upload speeds and ETAs
 
 ## Disclaimer
+- **Credit for all code goes to https://github.com/maple3142/heroku-aria2c**
 - You will need to deploy this bot either on your own server using Docker or on Heroku using a free Heroku account
-- Credit for all code goes to https://github.com/maple3142/heroku-aria2c
 
 # Tutorial
 ## Rclone.conf setup
