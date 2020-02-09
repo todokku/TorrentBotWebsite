@@ -24,7 +24,6 @@ client_secret = qwert_yuiopasdfghjlzxcvb
 scope = drive
 token = {"access_token":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","token_type":"Bearer","refresh_token":"1//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","expiry":"2020-02-0123:01:01.12345678+01:00"}
 team_drive = 12A_345rSFJDIWD
-others entries...
 ```
 - Copy from `type = ...` to  `... token = ...` or `team_drive = ...` if you used a Team Drive in the Rclone setup
 - From the above copied items change each line break to `\n`
