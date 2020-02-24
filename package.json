@@ -1,8 +1,8 @@
 {
-	"name": "TorrentBotWebsite",
+	"name": "heroku-aria2c",
 	"version": "1.0.0",
 	"main": "index.js",
-	"author": "eliasbenb <eliasbenbourenane@yahoo.com>",
+	"author": "maple3142 <kirby741852963@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1",
